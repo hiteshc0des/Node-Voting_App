@@ -12,7 +12,7 @@ Features->>
 
 Technologies Used->>
 
-Node.js
-Express.js
-MongoDB
-JSON Web Tokens (JWT) for authentication
+- Node.js
+- Express.js
+- MongoDB
+- JSON Web Tokens (JWT) for authentication
